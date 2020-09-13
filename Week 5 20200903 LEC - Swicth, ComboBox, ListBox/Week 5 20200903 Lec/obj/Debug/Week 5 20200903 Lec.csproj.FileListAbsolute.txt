@@ -1,0 +1,10 @@
+C:\Users\VenusJY\source\repos\Week 5 20200903 Lec\Week 5 20200903 Lec\obj\Debug\Week 5 20200903 Lec.csprojAssemblyReference.cache
+C:\Users\VenusJY\source\repos\Week 5 20200903 Lec\Week 5 20200903 Lec\obj\Debug\Week_5_20200903_Lec.Form1.resources
+C:\Users\VenusJY\source\repos\Week 5 20200903 Lec\Week 5 20200903 Lec\obj\Debug\Week_5_20200903_Lec.Properties.Resources.resources
+C:\Users\VenusJY\source\repos\Week 5 20200903 Lec\Week 5 20200903 Lec\obj\Debug\Week 5 20200903 Lec.csproj.GenerateResource.cache
+C:\Users\VenusJY\source\repos\Week 5 20200903 Lec\Week 5 20200903 Lec\obj\Debug\Week 5 20200903 Lec.csproj.CoreCompileInputs.cache
+C:\Users\VenusJY\source\repos\Week 5 20200903 Lec\Week 5 20200903 Lec\bin\Debug\Week 5 20200903 Lec.exe.config
+C:\Users\VenusJY\source\repos\Week 5 20200903 Lec\Week 5 20200903 Lec\bin\Debug\Week 5 20200903 Lec.exe
+C:\Users\VenusJY\source\repos\Week 5 20200903 Lec\Week 5 20200903 Lec\bin\Debug\Week 5 20200903 Lec.pdb
+C:\Users\VenusJY\source\repos\Week 5 20200903 Lec\Week 5 20200903 Lec\obj\Debug\Week 5 20200903 Lec.exe
+C:\Users\VenusJY\source\repos\Week 5 20200903 Lec\Week 5 20200903 Lec\obj\Debug\Week 5 20200903 Lec.pdb
