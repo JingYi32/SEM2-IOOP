@@ -1,0 +1,10 @@
+C:\Users\VenusJY\source\repos\EXE 1\EXE 1\bin\Debug\EXE 1.exe.config
+C:\Users\VenusJY\source\repos\EXE 1\EXE 1\bin\Debug\EXE 1.exe
+C:\Users\VenusJY\source\repos\EXE 1\EXE 1\bin\Debug\EXE 1.pdb
+C:\Users\VenusJY\source\repos\EXE 1\EXE 1\obj\Debug\EXE 1.csprojAssemblyReference.cache
+C:\Users\VenusJY\source\repos\EXE 1\EXE 1\obj\Debug\EXE_1.Form1.resources
+C:\Users\VenusJY\source\repos\EXE 1\EXE 1\obj\Debug\EXE_1.Properties.Resources.resources
+C:\Users\VenusJY\source\repos\EXE 1\EXE 1\obj\Debug\EXE 1.csproj.GenerateResource.cache
+C:\Users\VenusJY\source\repos\EXE 1\EXE 1\obj\Debug\EXE 1.csproj.CoreCompileInputs.cache
+C:\Users\VenusJY\source\repos\EXE 1\EXE 1\obj\Debug\EXE 1.exe
+C:\Users\VenusJY\source\repos\EXE 1\EXE 1\obj\Debug\EXE 1.pdb
