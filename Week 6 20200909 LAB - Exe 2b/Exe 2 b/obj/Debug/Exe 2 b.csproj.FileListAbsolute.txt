@@ -1,0 +1,9 @@
+C:\Users\VenusJY\source\repos\Exe 2 b\Exe 2 b\bin\Debug\Exe 2 b.exe.config
+C:\Users\VenusJY\source\repos\Exe 2 b\Exe 2 b\bin\Debug\Exe 2 b.exe
+C:\Users\VenusJY\source\repos\Exe 2 b\Exe 2 b\bin\Debug\Exe 2 b.pdb
+C:\Users\VenusJY\source\repos\Exe 2 b\Exe 2 b\obj\Debug\Exe_2_b.Form1.resources
+C:\Users\VenusJY\source\repos\Exe 2 b\Exe 2 b\obj\Debug\Exe_2_b.Properties.Resources.resources
+C:\Users\VenusJY\source\repos\Exe 2 b\Exe 2 b\obj\Debug\Exe 2 b.csproj.GenerateResource.cache
+C:\Users\VenusJY\source\repos\Exe 2 b\Exe 2 b\obj\Debug\Exe 2 b.csproj.CoreCompileInputs.cache
+C:\Users\VenusJY\source\repos\Exe 2 b\Exe 2 b\obj\Debug\Exe 2 b.exe
+C:\Users\VenusJY\source\repos\Exe 2 b\Exe 2 b\obj\Debug\Exe 2 b.pdb

@@ -1,0 +1,10 @@
+C:\Users\VenusJY\source\repos\Week 6 20200910 LEC - WHILE LOOP\Week 6 20200910 LEC - WHILE LOOP\bin\Debug\Week 6 20200910 LEC - WHILE LOOP.exe.config
+C:\Users\VenusJY\source\repos\Week 6 20200910 LEC - WHILE LOOP\Week 6 20200910 LEC - WHILE LOOP\bin\Debug\Week 6 20200910 LEC - WHILE LOOP.exe
+C:\Users\VenusJY\source\repos\Week 6 20200910 LEC - WHILE LOOP\Week 6 20200910 LEC - WHILE LOOP\bin\Debug\Week 6 20200910 LEC - WHILE LOOP.pdb
+C:\Users\VenusJY\source\repos\Week 6 20200910 LEC - WHILE LOOP\Week 6 20200910 LEC - WHILE LOOP\obj\Debug\Week 6 20200910 LEC - WHILE LOOP.csprojAssemblyReference.cache
+C:\Users\VenusJY\source\repos\Week 6 20200910 LEC - WHILE LOOP\Week 6 20200910 LEC - WHILE LOOP\obj\Debug\Week_6_20200910_LEC___WHILE_LOOP.Form1.resources
+C:\Users\VenusJY\source\repos\Week 6 20200910 LEC - WHILE LOOP\Week 6 20200910 LEC - WHILE LOOP\obj\Debug\Week_6_20200910_LEC___WHILE_LOOP.Properties.Resources.resources
+C:\Users\VenusJY\source\repos\Week 6 20200910 LEC - WHILE LOOP\Week 6 20200910 LEC - WHILE LOOP\obj\Debug\Week 6 20200910 LEC - WHILE LOOP.csproj.GenerateResource.cache
+C:\Users\VenusJY\source\repos\Week 6 20200910 LEC - WHILE LOOP\Week 6 20200910 LEC - WHILE LOOP\obj\Debug\Week 6 20200910 LEC - WHILE LOOP.csproj.CoreCompileInputs.cache
+C:\Users\VenusJY\source\repos\Week 6 20200910 LEC - WHILE LOOP\Week 6 20200910 LEC - WHILE LOOP\obj\Debug\Week 6 20200910 LEC - WHILE LOOP.exe
+C:\Users\VenusJY\source\repos\Week 6 20200910 LEC - WHILE LOOP\Week 6 20200910 LEC - WHILE LOOP\obj\Debug\Week 6 20200910 LEC - WHILE LOOP.pdb
